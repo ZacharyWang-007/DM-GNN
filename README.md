@@ -16,7 +16,7 @@ Please install pytorch version >=1.2
    python main_blca.py/main_brca.py/main_gbmlgg.py/main_luad.py/main_ucec.py
  ~~~~~~~~~~~~~~~~~~
 
-Given that this work is still under review, a partial of the code regarding the neural network hasn't been uploaded. 
+Given that this work is still under review, partial of the coded regarding the neural network hasn't been uploaded. 
 
 ## Contact
 If you have any questions, please don't hesitate to contact us. E-mail: [zhikang.wang@monash.edu](zhikang.wang@monash.edu) 
