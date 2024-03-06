@@ -18,7 +18,6 @@ Please refer to [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN)
    e.g., python main_blca.py
  ~~~~~~~~~~~~~~~~~~
 
-% Given that this work is still under review, partial of the codes regarding the neural network haven't been uploaded. 
 
 ## Contact
 If you have any questions, please don't hesitate to contact us. E-mail: [zhikang.wang@monash.edu](zhikang.wang@monash.edu) 
